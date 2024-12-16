@@ -1,1 +1,1 @@
-# Hand-Written-Number-Classification
+# Python CIFAR-10 Classification CNN model
